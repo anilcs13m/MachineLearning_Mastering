@@ -24,7 +24,11 @@ Movies <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mas
 ~~~
 Predicting Housing price
 ~~~
-NOtebook <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/predicting%20Housing%20price/Predicting%20house%20prices.ipynb/" target="_blank">Housing Price</a>
+Notebook <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/predicting%20Housing%20price/Predicting%20house%20prices.ipynb/" target="_blank">Housing Price</a>
+
+Notebook <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/PhillyCrime.ipynb/" target="_blank">PhillyCrime</a>
+
+
 
 
 # Recommendation System#
