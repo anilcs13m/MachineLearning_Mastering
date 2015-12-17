@@ -24,7 +24,9 @@ Predicting Housing price
 ~~~
 Housing Notebook <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/predicting%20Housing%20price/Predicting%20house%20prices.ipynb/" target="_blank">Housing Price</a>
 
-PhillyCrime Notebook <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/PhillyCrime.ipynb/" target="_blank">PhillyCrime</a>
+PhillyCrime Housing Price <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/PhillyCrime.ipynb/" target="_blank">PhillyCrime</a>
+
+Multiple Regression Housing Price <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/multiple_regression_housing_price.ipynb/" target="_blank">MultipleRegression</a>
 
 
 
