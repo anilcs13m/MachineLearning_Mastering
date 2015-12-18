@@ -1,5 +1,11 @@
 # Machine Learning Mastering
 
+# Some Basics #
+~~~
+Some usefull basic
+~~~
+Overfitting and Lesso <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/Overfitting_Ridge_Lasso.ipynb/" target="_blank">Document Retrieval</a>
+
 # Document Retrieval #
 ~~~
 Document retrieval from wikipedia data Using TF-IDF
