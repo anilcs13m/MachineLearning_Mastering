@@ -31,6 +31,10 @@ Multiple Regression Housing Price <a href="http://nbviewer.ipython.org/github/an
 
 Multiple Regression With Gradient <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/multiple-regression-assignment-with-gradient.ipynb/" target="_blank">MultipleRegressionGradient</a>
 
+Multiple Regression Polynomial <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/polynomial-regression-assignment.ipynb/" target="_blank">MultipleRegressionPolinomial</a>
+
+
+
 
 
 
