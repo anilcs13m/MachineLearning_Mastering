@@ -29,6 +29,10 @@ PhillyCrime Housing Price <a href="http://nbviewer.ipython.org/github/anilcs13m/
 Multiple Regression Housing Price <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/multiple_regression_housing_price.ipynb/" target="_blank">MultipleRegression</a>
 
 
+Multiple Regression With Gradient <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/multiple-regression-assignment-with-gradient.ipynb/" target="_blank">MultipleRegressionGradient</a>
+
+
+
 
 
 # Recommendation System#
