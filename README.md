@@ -4,7 +4,8 @@
 ~~~
 Some usefull basic
 ~~~
-Overfitting and Lesso <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/Overfitting_Ridge_Lasso.ipynb/" target="_blank">Document Retrieval</a>
+Overfitting and Lesso <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/Overfitting_Ridge_Lasso.ipynb/" target="_blank">OverFitting and Lesso</a>
+
 
 # Document Retrieval #
 ~~~
@@ -40,6 +41,10 @@ Multiple Regression With Gradient <a href="http://nbviewer.ipython.org/github/an
 Multiple Regression Polynomial <a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/polynomial-regression-assignment.ipynb/" target="_blank">MultipleRegressionPolinomial</a>
 
 
+Week 4 ridge regression 1<a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/week-4-ridge-regression-assignment-1-blank.ipynb/" target="_blank">RidgeRegression1</a>
+
+
+Week 4 ridge regression 2<a href="http://nbviewer.ipython.org/github/anilcs13m/MachineLearning_Mastering/blob/master/week-4-ridge-regression-assignment-2-blank.ipynb/" target="_blank">RidgeRegression2</a>
 
 
 
